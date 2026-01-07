@@ -1,0 +1,120 @@
+.home-container {
+  min-height: 100vh;
+  padding: 60px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* HERO CARD */
+.home-card {
+  background: #ffffff;
+  max-width: 720px;
+  width: 100%;
+  padding: 55px;
+  border-radius: 18px;
+  text-align: center;
+  box-shadow: 0 30px 70px rgba(0, 0, 0, 0.18);
+}
+
+.home-card h1 {
+  font-size: 38px;
+  margin-bottom: 12px;
+  color: #111;
+}
+
+.home-subtitle {
+  font-size: 18px;
+  color: #555;
+  margin-bottom: 28px;
+}
+
+.home-desc {
+  font-size: 16px;
+  color: #666;
+  line-height: 1.75;
+  margin-bottom: 32px;
+}
+
+.home-features {
+  margin-bottom: 38px;
+  font-size: 15px;
+  color: #444;
+  line-height: 1.9;
+}
+
+.home-card button {
+  padding: 16px 34px;
+  background: #111;
+  color: #fff;
+  font-size: 16px;
+  border: none;
+  border-radius: 14px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.home-card button:hover {
+  background: #2c2c2c;
+  transform: translateY(-2px);
+}
+
+/* DIVIDER */
+.divider {
+  width: 100%;
+  max-width: 600px;
+  height: 1px;
+  background: linear-gradient(to right, transparent, #bbb, transparent);
+  margin: 80px 0 60px;
+}
+
+/* WHISPERS SECTION */
+.whispers {
+  max-width: 900px;
+  width: 100%;
+  text-align: center;
+}
+
+.whispers h2 {
+  font-size: 30px;
+  margin-bottom: 10px;
+  color: #222;
+}
+
+.whispers-subtitle {
+  font-size: 15px;
+  color: #666;
+  margin-bottom: 40px;
+}
+
+.whisper-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 26px;
+}
+
+.whisper {
+  background: #fafafa;
+  padding: 26px;
+  border-radius: 16px;
+  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.08);
+  text-align: left;
+}
+
+.whisper-text {
+  font-size: 15px;
+  color: #333;
+  line-height: 1.7;
+  margin-bottom: 14px;
+}
+
+.whisper span {
+  font-size: 13px;
+  color: #777;
+}
+
+.whisper span {
+  font-size: 13px;
+  color: #777;
+  font-style: italic;
+}
