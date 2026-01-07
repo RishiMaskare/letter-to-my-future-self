@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
-import writeLetter from "./pages/WriteLetter";
+import WriteLetter from "./pages/writeLetter";
 
 function App() {
   return (
