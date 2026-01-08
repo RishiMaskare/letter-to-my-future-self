@@ -9,7 +9,7 @@ Built with a focus on emotional connection, reliability, and real-world producti
 
 ![GitHub stars](https://img.shields.io/github/stars/RishiMaskare/letter-to-my-future-self?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/RishiMaskare/letter-to-my-future-self?style=for-the-badge)
-![License](https://img.shields.io/github/license/RishiMaskare/letter-to-my-future-self?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Made with MERN](https://img.shields.io/badge/Made%20With-MERN-blueviolet?style=for-the-badge)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://letter-to-my-future-self-3nhawp3a3-rishi-maskares-projects.vercel.app/)
 
