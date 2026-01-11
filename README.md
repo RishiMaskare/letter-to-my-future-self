@@ -18,7 +18,7 @@ Built with a focus on emotional connection, reliability, and real-world producti
 ## 🌐 Live Demo
 
 👉 **Deployed Website:**  
-https://letter-to-my-future-self-3nhawp3a3-rishi-maskares-projects.vercel.app/
+https://letter-to-my-future-self.vercel.app
 
 ---
 
